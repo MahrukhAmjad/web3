@@ -1,0 +1,250 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+.donationSession{
+    height: 50px;
+    width: 100%;
+    background-color:#316DC3;
+    float: left;
+    
+   
+
+}
+
+.fa {
+    margin-top: 10px;
+margin-right: 7px;
+padding: 8px;
+font-size: 15px;
+width: 15px;
+text-align: center;
+text-decoration: none;
+}
+
+.fa:hover {
+opacity: 0.4;
+}
+
+.fa-facebook, .fa-skype, .fa-youtube, .fa-instagram {
+background: #316DC3;
+color: white;
+}
+.fa-whatsapp{
+background-color: #65BC54; 
+color: white;
+padding: 2px;
+}
+.socialmedia{
+float: left;
+margin-left: 100px;
+}
+.donationSession-title{
+float: left;
+color: white;
+margin-left: 90px;
+margin-top: 18px;
+}
+.donationSession-button{
+position: absolute;
+margin-left: 1000px;
+
+}
+#donation-button{
+margin: 15px 0px 0px 0px;
+padding: 7px;
+font-size: 11px;
+color: #427900;
+border: 1px solid #427900;
+width: 100px;
+
+}
+.navbar{
+height: 80px;
+    width: 100%;
+    background-color:#F7F8FA;
+    float: left;
+
+}
+.navbar-logo{
+height: 50px;
+margin: 20px 0px 0px 95px;
+float: left;
+}
+.navbar-button-active{
+background-color: #316DC3;
+border: 1px solid #316DC3;
+border-radius: 20px;
+color: white;
+padding: 12px;
+margin: 25px 0px 0px 0px;
+}
+#navbar-button{
+
+background-color: #F7F8FA;
+border: 1px solid #F7F8FA;
+border-radius: 20px;
+color: black;
+padding: 12px;
+margin: 25px 0px 0px 0px;
+}
+#navbar-button:hover{
+background-color: #316DC3;
+border: 1px solid #316DC3;
+color: white;
+}
+.navbar-button-div{
+margin-left: 600px;
+}
+.sliderimg{
+width: 100%;
+}
+.marquee-News{
+
+background-color: #316DC3;
+height: 15PX;
+margin:10px auto;
+width:1100px;
+color: white;
+padding: 10px;
+}
+.green-text{
+color: #0BDE2B;
+}
+.intro{
+
+background-color: #F7F8FA;
+height: 700px;
+}
+#intro-heading{
+text-align: center;
+font-size: 30px;
+font-weight: bold;
+padding-top: 50px;
+}
+#intro-blue{
+color: #316DC3;
+}
+#intro-green{
+color: #427900;
+}
+#intro-logo{
+text-align: center;
+
+
+}
+#green-intro-text{
+
+color: #427900; 
+}
+#intro-img{
+
+height: 50px;
+}
+.intro-text{
+margin:10px auto;
+width:950px;
+text-align: justify;
+color: #909091;
+line-height: 150%;
+font-size: large;
+
+}
+.services-img{
+width: 100%;
+}
+.working{
+background-color: #F7F8FA;
+height: 700px;
+}
+.flex-container {
+display: flex;
+justify-content: center;
+background-color: #F7F8FA;
+
+
+}
+
+.flex-container > div {
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+background-color: white;
+width: 28%;
+height: 200px;
+margin: 20px;
+text-align: center;
+}
+.flex-container > div > img{
+margin-top: 45px;
+}
+.upcommingmission-img{
+width: 100%;
+margin-top: 100px;
+}
+
+
+div.gallery-align{
+
+margin:70px auto;
+width:1020px;
+}
+div.gallery {
+
+margin: 1px;
+float: left;
+width: 200px;
+}
+
+
+div.gallery img {
+
+width: 100%;
+height: auto;
+
+}
+
+div.gallery img:hover{
+	opacity:0.2;
+}
+
+.clear{
+                clear:both;
+}
+
+.grid-container {
+
+display: grid;
+height: 300px;
+grid-template-columns: auto auto auto;
+background-color:#25272E;
+padding: 10px;
+}
+.grid-item {
+
+line-height: 150%;
+margin-top: 70px;
+
+padding: 20px;
+color:#9B9B9D;
+
+}
+#white{
+color: white;
+}
+#icon{
+color: #427900;
+font-size: 18px;
+}
+#social-icon{
+border-radius: 100%;
+}
+.footer {
+
+
+
+background-color:#316DD9;
+color: white;
+
+padding: 20px;
+
+}
